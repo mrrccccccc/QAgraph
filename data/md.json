@@ -1,0 +1,4 @@
+[
+  {"name": "感冒", "symptoms": ["发烧","头痛"], "causes": ["受凉、气候突变"], "departments": ["感染科"], "drugs": ["抗生素","水"]},
+  {"name": "骨折", "symptoms": ["骨头疼"], "causes": ["剧烈运动"], "departments": ["骨科"], "drugs": ["绷带","石膏"]}
+]
